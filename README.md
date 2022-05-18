@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=CharlieLMAO&theme=dracula&count_private=true"/>
-<img align="left" width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieLMAO&theme=dracula&count_private=true"/>
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=KuruDev&theme=dracula&count_private=true"/>
+<img align="left" width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuruDev&theme=dracula&count_private=true"/>
 <br>
 <br>
 <br>
